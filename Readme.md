@@ -29,15 +29,17 @@ The backend is built using Flask API for managing books and user profiles, while
 - Node.js and npm
 - Python 3.x
 - Flask
-- SQLite or MongoDB (depending on your choice)
+- SQLAlchemy
 Refer requirements.txt and package.json for depenedencies
+- Install dependencies with npm for frontend and python interpreter for backend
+- Check routes file for database_service>> send-otp route and update sender_email and password.
 
 ### Frontend Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/book-exchange-platform.git
    cd book-exchange-platform
-
+   
 
 ### API Endpoint Documentation
 # User Profile API
