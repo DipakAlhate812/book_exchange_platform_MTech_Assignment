@@ -9,7 +9,7 @@ The **Book Exchange Platform** is a web-based application that allows users to l
 - Delete book listings
 
 The backend is built using Flask API for managing books and user profiles, while the frontend is built using React for a seamless user experience.
-
+Video Link: https://drive.google.com/file/d/1okhAUwtldbRtexHd_5pVLFkVmWg9fIoC/view?usp=drive_link
 ## Features
 - **User Profile Management**: Users can view and update their profiles, including email and location.
 - **Book Listings**: Users can add, view, update, and delete book listings.
